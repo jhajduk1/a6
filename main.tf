@@ -14,6 +14,8 @@ variable "tid" {
 }
 variable "tid1" {
 }
+variable "tid2" {
+}
 
 provider "azurerm" {
   subscription_id = var.subid
