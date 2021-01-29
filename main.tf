@@ -12,8 +12,6 @@ variable "appsec" {
 }
 variable "tid" {
 }
-variable "tid1" {
-}
 variable "tid2" {
 }
 
