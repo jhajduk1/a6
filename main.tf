@@ -12,10 +12,7 @@ variable "appsec" {
 }
 variable "tid" {
 }
-variable "tid1" {
-}
 
-tid1 = "hellooooooooooooo"
 
 provider "azurerm" {
   subscription_id = var.subid
