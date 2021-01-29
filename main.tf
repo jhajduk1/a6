@@ -23,7 +23,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "jjjjj-rg" {
-  name     = "jjjjj-rg"
+  name     = "qqqqqqq-rg"
   location = "North Central US"
 }
 
