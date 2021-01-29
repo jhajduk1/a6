@@ -12,8 +12,7 @@ variable "appsec" {
 }
 variable "tid" {
 }
-variable "tid2" {
-}
+
 
 provider "azurerm" {
   subscription_id = var.subid
